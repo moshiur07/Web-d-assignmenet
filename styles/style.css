@@ -1,0 +1,45 @@
+/* Heading Styles */
+.bg {
+    background-color: #E554731A;
+    width: 1920px;
+    height: 850px;
+
+}
+
+.container-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px 200px;
+   
+
+}
+
+.container-header .fst-img {
+    width: 635px;
+    height: 800px;
+}
+
+.container-header .first-tittle {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+}
+.description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 634px;
+}
+.button{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color:  #FFF;
+
+}
